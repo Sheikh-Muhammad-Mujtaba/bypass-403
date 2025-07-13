@@ -4,12 +4,12 @@
 ![](responses.jpg)
 
 # Usage
-`./bypass-403.sh https://example.com admin`
+`bash bypass-403.sh https://example.com admin`
 
-`./bypass-403.sh website-here path-here`
+`bash bypass-403.sh website-here path-here`
 
 # Features
-- Use 24 known Bypasses for 403 with the help of curl
+- Use 23 known Bypasses for 403 with the help of curl
 
 # Installation
    * `git clone https://github.com/iamj0ker/bypass-403`
@@ -23,3 +23,4 @@
   [manpreet](https://github.com/manpreet406)
   [MayankPandey01](https://github.com/MayankPandey01)
   [saadibabar](https://github.com/saadibabar)
+  [Sheikh](https://github.com/Sheikh-Muhammad-Mujtaba)
